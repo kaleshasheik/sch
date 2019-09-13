@@ -1,0 +1,27 @@
+[
+    {
+        "key": 1,
+        "path": "../../assets/images/c1.jpg",
+        "legend": "Image 1"
+    },
+    {
+        "key": 2,
+        "path": "../../assets/images/c2.jpg",
+        "legend": "Image 2"
+    },
+    {
+        "key": 3,
+        "path": "../../assets/images/c3.jpg",
+        "legend": "Image 3"
+    },
+    {
+        "key": 4,
+        "path": "../../assets/images/c4.jpg",
+        "legend": "Image 4"
+    },
+    {
+        "key": 5,
+        "path": "../../assets/images/c5.jpg",
+        "legend": "Image 5"
+    }
+]

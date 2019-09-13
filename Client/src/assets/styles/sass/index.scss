@@ -1,0 +1,44 @@
+@import "robot.scss";
+@import "../../scss/material-dashboard-pro-react.scss";
+
+body {
+  /* background-image: url("../../images/bgTexture.jpg");
+  background-repeat: repeat; */
+  margin: 0;
+}
+
+.pad-10 {
+  padding: 10px;
+}
+
+.pad-15 {
+  padding: 15px;
+}
+
+.pad-5 {
+  padding: 5px;
+}
+
+.mar-t-30 {
+  margin-top: 30px;
+}
+.max-w-250 {
+  max-width: 250px !important;
+}
+
+.float-r {
+  float: right !important;
+}
+
+.MuiSelect-icon {
+  top: calc(50% - 12px);
+  color: rgba(0, 0, 0, 0.54);
+  right: 10px !important;
+  position: absolute;
+  pointer-events: none;
+}
+
+.heart {
+  color: red;
+  margin: 5px;
+}
